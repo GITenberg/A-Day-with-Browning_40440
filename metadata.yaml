@@ -1,0 +1,50 @@
+_repo: A-Day-with-Browning_40440
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Browning, Robert
+    birthdate: 1812
+    deathdate: 1889
+    gutenberg_agent_id: '146'
+    url: http://www.gutenberg.org/2009/agents/146
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Browning
+  illustrators:
+  - agent_name: Neatby, William James
+    alias: Neatby, W. J.
+    birthdate: 1860
+    deathdate: 1910
+    gutenberg_agent_id: '34617'
+    url: http://www.gutenberg.org/2009/agents/34617
+  - agent_name: Flint, W. Russell (William Russell)
+    alias: Flint, William Russell, Sir
+    birthdate: 1880
+    deathdate: 1969
+    gutenberg_agent_id: '43472'
+    url: http://www.gutenberg.org/2009/agents/43472
+  - agent_name: Haslehust, E. W.
+    aliases:
+    - Haslehurst, E. W.
+    - Haslehurst, Ernest William
+    - Haslehust, Ernest William
+    birthdate: 1866
+    deathdate: 1949
+    gutenberg_agent_id: '26576'
+    url: http://www.gutenberg.org/2009/agents/26576
+    wikipedia: https://en.wikipedia.org/wiki/Ernest_William_Haslehust
+covers:
+- cover_type: archival
+  image_path: 40440-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2012-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40440'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Browning, Robert, 1812-1889'
+title: A Day with Browning
+url: http://www.gutenberg.org/ebooks/40440
